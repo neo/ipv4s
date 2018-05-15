@@ -1,0 +1,25 @@
+{
+  "name": "ipv4s",
+  "version": "1.0.0",
+  "description": "Get ALL of your ipv4 addresses",
+  "bin": "cli.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo/ipv4s.git"
+  },
+  "keywords": [
+    "ipv4",
+    "address",
+    "ip"
+  ],
+  "author": "Neo <neo.li@jam3.com> (https://github.com/neo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neo/ipv4s/issues"
+  },
+  "homepage": "https://github.com/neo/ipv4s#readme",
+  "engines": {
+    "node": ">=7"
+  }
+}
